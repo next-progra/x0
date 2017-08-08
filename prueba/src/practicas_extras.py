@@ -53,6 +53,7 @@ elif 30<respuesta<39.9:
 elif respuesta>40:
     print("peso : obesidad grado III Riesgo relativo extremadamente alto, su IMC es "+str(respuesta))
 #funciona todo
+#otra prueba
 
     
     
